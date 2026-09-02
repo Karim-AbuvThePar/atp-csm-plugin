@@ -1,11 +1,9 @@
 {
-  "name": "ATP CSM Plugin Marketplace",
-  "description": "Automations for Abuv The Par Customer Success Managers",
   "plugins": [
     {
-      "name": "atp-csm",
-      "title": "ATP CSM Intelligence Suite",
-      "description": "6 automations: Morning Brief, Zee, EOD Debrief, Post-Call Note, EOW Report, and First-Time Setup. Built for Abuv The Par CSMs.",
+      "id": "atp-csm",
+      "name": "ATP CSM Intelligence Suite",
+      "description": "6 automations for Abuv The Par CSMs",
       "path": "."
     }
   ]
