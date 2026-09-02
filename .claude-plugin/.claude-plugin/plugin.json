@@ -1,0 +1,14 @@
+{
+  "id": "atp-csm",
+  "name": "ATP CSM Intelligence Suite",
+  "version": "1.0.0",
+  "description": "6 automations for Abuv The Par CSMs — Morning Brief, Zee, EOD Debrief, Post-Call Note, EOW Report, and Setup.",
+  "skills": [
+    "skills/atp-setup",
+    "skills/zee",
+    "skills/morning-brief",
+    "skills/eod-debrief",
+    "skills/eow-report",
+    "skills/post-call-note"
+  ]
+}
